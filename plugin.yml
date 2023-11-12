@@ -1,7 +1,7 @@
 name: HostInfoGetter
 main: XanderID\HostInfoGetter\HostInfoGetter
 version: 1.0.0
-api: 4.0.0
+api: 5.0.0
 description: Get Ram, CPU, and others On Your Host!
 author: XanderID
 

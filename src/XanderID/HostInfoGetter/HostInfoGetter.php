@@ -5,7 +5,6 @@ namespace XanderID\HostInfoGetter;
 use pocketmine\plugin\PluginBase;
 use pocketmine\command\CommandSender;
 
-use pocketmine\utils\Process;
 use pocketmine\utils\Utils;
 
 use XanderID\HostInfoGetter\Commands\GetHostInfoCommands;
